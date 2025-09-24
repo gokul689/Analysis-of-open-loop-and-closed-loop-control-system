@@ -49,6 +49,10 @@ step(sys1)
 ### Closed Loop System
 <img width="1892" height="1019" alt="Screenshot 2025-09-24 092920" src="https://github.com/user-attachments/assets/a4b68048-6a45-4564-9d6a-1dd6f94a4ae2" />
 <img width="1919" height="1105" alt="Screenshot 2025-09-24 092946" src="https://github.com/user-attachments/assets/93c1381e-15f4-4257-89e6-3e76c02155e0" />
+
+
+
+
 <img width="683" height="619" alt="Screenshot 2025-09-24 092126" src="https://github.com/user-attachments/assets/d559dcaf-f8ab-4639-a17e-e9ee0c112db9" />
 
 
